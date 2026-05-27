@@ -1,0 +1,5 @@
+Es importante que las comunidades puedan crear sus propias herramientas con tecnologías abiertas como Node.js porque así tienen control sobre lo que necesitan. No dependen de pagar programas costosos ni de esperar que una empresa grande les solucione sus problemas.
+
+Node.js es gratis, fácil de aprender y funciona en cualquier computador. Esto permite que jóvenes, líderes sociales o grupos de barrio puedan crear páginas web, sistemas de registro o apps sencillas para organizarse mejor.
+
+Cuando el código es abierto, otras comunidades pueden usarlo, mejorarlo y compartirlo. Así la tecnología deja de ser solo para las grandes empresas y se convierte en una herramienta para el desarrollo local y la participación ciudadana.
